@@ -1,4 +1,6 @@
-/* dados dos numeros, devolver cuantos numeros impares hay entre ellos */
+/* ejercicio 7:
+
+dados dos numeros, devolver cuantos numeros impares hay entre ellos */
 
 /* solucion */
 

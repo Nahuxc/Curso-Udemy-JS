@@ -1,4 +1,4 @@
-/* ejercicio 3
+/* ejercicio 3 :
 Dada una palabra, buscarla en una frase y devolver cuantas veces aparece en ella.
 la frase y la palabra deben ser parametros de una funcion.
 

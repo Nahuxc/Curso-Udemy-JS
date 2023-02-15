@@ -1,4 +1,4 @@
-/* Ejercicio 2
+/* Ejercicio 2 :
 Dada una cadena de texto, comprobar si es un palindromo o no.
 los palindromos son palabras que se leen igual aun estando invertidas por ejemplo: ana, bob, otto, allivessevilla
 
